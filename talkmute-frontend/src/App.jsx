@@ -14,7 +14,7 @@ import {
 } from "lucide-react";
 
 // Environment configuration
-const BACKEND_URL = "http://localhost:3000";
+const BACKEND_URL = "https://talkmute-project.onrender.com";
 
 // Main App Component
 const App = () => {
